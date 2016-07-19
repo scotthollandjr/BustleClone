@@ -1,7 +1,6 @@
 # Super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Bustle Clone project in ember for the Epicodus JavaScript course. This project is a clone of the website bustle.com 
 
 ## Prerequisites
 
